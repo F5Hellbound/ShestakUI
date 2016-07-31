@@ -130,7 +130,7 @@ L_ERRORFRAME_L = "Klick um Fehler anzuzeigen."
 L_BAG_SHOW_BAGS = "Zeige Taschen"
 L_BAG_RIGHT_CLICK_SEARCH = "Rechtsklick um zu suchen"
 L_BAG_STACK_MENU = "Stapeln"
-L_BAG_RIGHT_CLICK_CLOSE = "Right-click to open menu" -- Need review
+L_BAG_RIGHT_CLICK_CLOSE = "Rechtsklick öffnet Menü"
 
 -- Grab mail
 L_MAIL_STOPPED = "Angehalten, Inventar ist voll."
@@ -156,9 +156,9 @@ L_PANELS_AFK_LCLICK = "Links-Klick um zurück zu gehen."
 
 -- Cooldowns
 L_COOLDOWNS = "Abklingzeit: "
-L_COOLDOWNS_COMBATRESS = "CombatRess" -- Needs review
-L_COOLDOWNS_COMBATRESS_REMAINDER = "Combat resurrect: " -- Needs review
-L_COOLDOWNS_NEXTTIME = "Next time: " -- Needs review
+L_COOLDOWNS_COMBATRESS = "BattleRes"
+L_COOLDOWNS_COMBATRESS_REMAINDER = "BattelRes übrig: " -- Needs review
+L_COOLDOWNS_NEXTTIME = "Nächste möglichkeit: "
 
 -- Autoinvite
 L_INVITE_ENABLE = "Autoinvite AN: "
@@ -306,7 +306,7 @@ L_STATS_WATCH_CURRENCY = "Bereits gesehene Gegenstände aus dem Abzeichen-Fenste
 L_STATS_WATCH_FACTIONS = "Überwache Fraktionen aus dem Ruffenster."
 L_STATS_TOOLTIP_TIME_PLAYED = "Wenn das max. Level erreicht ist, wird das Tooltip die gespielte Zeit für den Account anzeigen."
 L_STATS_TOOLTIP_EXPERIENCE = "Wenn unter dem max. Level, wird ein Tooltip mit weiteren Details angezeigt."
-L_STATS_SEALS = "Seals this week" -- Needs review
+L_STATS_SEALS = "Angebot der Woche"
 
 -- Slash commands
 L_SLASHCMD_HELP = {
@@ -318,7 +318,7 @@ L_SLASHCMD_HELP = {
 	"/en ADDON_NAME - Aktiviere Addon.",
 	"/rd - Gruppe oder Schlachtzug auflösen.",
 	"/toraid - In Gruppe oder Schlachtzug umwandeln.",
-	"/teleport - Teleportation from random dungeon.", -- Needs review
+	"/teleport - Teleportation vom beliebigen Dungeon.",
 	"/spec, /ss - Zwischen den Talenten wechseln.",
 	"/heal - Zum Heiler Layout wechseln.",
 	"/dps - Zum DPS Layout wechseln.",
